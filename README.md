@@ -8,13 +8,13 @@ Para a entrada e saída de dados, o sistema utiliza arquivos para armazenar info
 
 ## Funcionalidades ⚙️
 
-- **Realização de Pedidos**: Os clientes podem fazer pedidos, selecionando itens do cardápio, especificando quantidades e adicionando observações personalizadas.
+- `Realização de Pedidos` Os clientes podem fazer pedidos, selecionando itens do cardápio, especificando quantidades e adicionando observações personalizadas.
 
-- **Cálculo de Valor Total do Pedido**: O sistema calcula automaticamente o valor total do pedido com base nos itens selecionados.
+- `Cálculo de Valor Total do Pedido` O sistema calcula automaticamente o valor total do pedido com base nos itens selecionados.
 
-- **Geração de Nota Fiscal**: Após a conclusão de um pedido, uma nota fiscal é gerada em formato de arquivo para registro.
+- `Geração de Nota Fiscal` Após a conclusão de um pedido, uma nota fiscal é gerada em formato de arquivo para registro.
 
-- **Histórico de Pedidos**: Mantém um histórico de todos os pedidos realizados, permitindo a consulta de pedidos anteriores.
+- `Histórico de Pedidos` Mantém um histórico de todos os pedidos realizados, permitindo a consulta de pedidos anteriores.
 
 ## Tecnologias 🛠
 
@@ -22,5 +22,5 @@ Para a entrada e saída de dados, o sistema utiliza arquivos para armazenar info
 
 ## Equipe 🎓
 
-- <a href="https://github.com/roollf">Rolf Matela</a>.
-- <a href="https://github.com/KarolTrevizani">Karoline Trevizani</a>.
+- [Rolf Matela](https://github.com/roollf).
+- [Karoline Trevizani](https://github.com/KarolTrevizani).
