@@ -20,5 +20,7 @@ Para a entrada e saída de dados, o sistema utiliza arquivos para armazenar info
 
 - Java.
 
+## Equipe 🎓
+
 - [Rolf Matela](https://github.com/roollf).
 - [Karoline Trevizani](https://github.com/KarolTrevizani).
